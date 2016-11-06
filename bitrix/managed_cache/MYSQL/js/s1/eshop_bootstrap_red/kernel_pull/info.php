@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/js/pull/pull.js" => "147845880030709",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
